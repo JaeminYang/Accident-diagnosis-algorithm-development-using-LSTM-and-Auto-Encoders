@@ -9,5 +9,7 @@ The accident diagnosis algorithm will be developed based on LSTM and Auto Encode
   3) To denosie fake data, I will try to apply Denoising Auto Encoder.
   
 Based on development of accident diangosis algorithmson, following journal articles are published.
+  
   (1) Yang, Jaemin, and Jonghyun Kim. "An accident diagnosis algorithm using long short-term memory." Nuclear Engineering and Technology 50.4 (2018): 582-588.
+  
   (2) Yang, Jaemin, Daeil Lee, and Jonghyun Kim. "Accident Diagnosis and Autonomous Control of Safety Functions During the Startup Operation of Nuclear Power Plants Using LSTM." International Conference on Applied Human Factors and Ergonomics. Springer, Cham, 2018.
