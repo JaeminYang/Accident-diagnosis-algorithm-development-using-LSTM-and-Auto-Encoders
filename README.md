@@ -8,7 +8,7 @@ The accident diagnosis algorithm will be developed based on LSTM and Auto Encode
   2) To sovle novelty detection problem, I have tried to apply Auto Encoder.
   3) To denosie fake data, I will try to apply Denoising Auto Encoder.
   
-Based on development of accident diangosis algorithmson, following journal articles are published.
+Based on development of accident diangosis algorithms, following journal articles are published.
   
   (1) Yang, Jaemin, and Jonghyun Kim. "An accident diagnosis algorithm using long short-term memory." Nuclear Engineering and Technology 50.4 (2018): 582-588.
   
